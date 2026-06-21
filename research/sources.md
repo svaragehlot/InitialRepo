@@ -25,40 +25,43 @@ table I've written why each one made my list.
 
 ## Why I chose each one
 
-1. **Ryan Law** - He's at the top of my list. I watched some of his YouTube videos and read his
-  blog, and I was impressed by how fully he's integrated AI, he even generates blog posts for the
-   site, but he still pushes for human involvement. He's honest that AI can't be perfect yet, that
-   there's still a skill gap, and that human review and editing are necessary.
-2. **Julia McCoy** - I found her through YouTube, and at first I didn't even realise she was using an
-  AI clone of herself on her channel. That made me curious, so I read more about her and went
-   through a few of her LinkedIn posts. What stuck with me: even though she leans heavily on her AI
-   clone and on AI in general, she believes that to stay ahead and spot the opportunity first, your
-   brand or company has to be so unique and specific that the AI agent picks you without comparing.
-3. **Bernard Huang** - I started reading his older blogs from 2024 and kept picking up things that
-  sound basic but are genuinely useful, like how often you should prune content, and what content
-   quality actually means for SEO. Reading those made me realise AI can't fully understand your
-   audience, their pain points, or the nuances of your brand voice. And with so much content going up
-   every day and trends changing quickly, you have to keep updating information and removing old data
-   to keep search results and ad ROI strong.
-4. **Koray Tuğberk Gübür** - I found him through LinkedIn and read his posts. He mostly talks about
-  how AI content should be structured so it gets noticed and ranks in Google searches.
-5. **Mike King** - I found him through the iPullRank YouTube channel, then started reading his
-  LinkedIn posts and blogs, where he talks about where AI content is heading and how search itself
-   is changing with AI. He's very technical, but it's the clearest picture I've found of what's
-   coming.
-6. **Aleyda Solis** - Her name kept coming up while I was researching, and her SEOFOMO newsletter
-  and Crawling Mondays videos turned out to be some of the most practical material I found. She
-   breaks the big AI-search changes into actual steps you can follow, which is what I needed.
-7. **Kevin Indig** - I came across his Growth Memo and liked that he doesn't just share tactics, he
-  backs them with data and ties them to real business growth. Good for checking whether an AI
-   content tactic actually moves the needle or just adds traffic.
-8. **Nathan Gotch** - I found his YouTube channel first, and it's very hands-on, lots of
-  step-by-step tutorials. He talks about "search everywhere" (Google, ChatGPT, YouTube), which felt
-   relevant since AI is changing where people actually search.
-9. **Ross Hudgens** - I looked into him because he runs a content agency (Siege Media), so he sees
-  this across a lot of brands. I liked that he's honest about what AI is and isn't good at in
-   content yet, and he makes a strong case for brand being the thing that wins in the AI era.
-10. **Jeff Coyle** - I found him through MarketMuse. He's been working on AI for content planning for
-  years (content briefs, topic modelling), so he's strong on the part I hadn't thought much about:  
-    deciding what to create and making it genuinely comprehensive, not just generating words.
-
+1. **Ryan Law** - I kept him because he shows AI being used inside a real content team, not just as
+   a writing shortcut. The playbook idea I would test from him is a human-in-the-loop workflow where
+   AI drafts from a style guide, then a person checks the angle, voice, examples, and links before
+   anything is published.
+2. **Julia McCoy** - I kept her because she is building around AI-first content systems, including
+   avatars and clones, while still tying the whole thing back to brand clarity. The playbook idea I
+   would test from her is making one sharp positioning statement first, then checking whether an AI
+   agent can understand who the brand is for and why it should recommend it.
+3. **Bernard Huang** - I kept him because his content makes AI search feel measurable instead of
+   vague. The playbook idea I would test from him is a weekly prompt-tracking sheet with the exact
+   customer questions, whether the brand is mentioned, whether it is cited, and which competitors
+   keep showing up.
+4. **Koray Tugberk Gubur** - I kept him because he is useful for the structure side of AI SEO:
+   entities, topical authority, mentions, claims, and document networks. The playbook idea I would
+   test from him is building an external topical map where several credible pages repeat the same
+   brand claims, services, locations, and entity relationships.
+5. **Mike King** - I kept him because he gets into the technical side of how AI search is changing,
+   especially retrieval, citations, query fan-outs, and agentic search behavior. The playbook idea I
+   would test from him is mapping the related questions an AI system might fan out from one buyer
+   prompt, then checking whether my content answers each branch clearly.
+6. **Aleyda Solis** - I kept her because she turns AI-search noise into practical SEO steps and keeps
+   the focus on findability across platforms. The playbook idea I would test from her is separating
+   old SEO metrics from AI-search visibility, then reviewing which queries lost clicks, which ones
+   still send qualified traffic, and which formats Google or AI systems are favoring.
+7. **Kevin Indig** - I kept him because he looks at AI visibility through evidence, not hype, and he
+   keeps coming back to off-property trust. The playbook idea I would test from him is listing the
+   domains AI already cites for a topic, then checking whether my brand is mentioned on those
+   sources before doing more on-page optimization.
+8. **Nathan Gotch** - I kept him because his material is very hands-on, especially around building
+   pages that can work for Google and AI answers at the same time. The playbook idea I would test
+   from him is creating a fast, HTML-first page from a strong content brief, then checking whether
+   the actual page source is readable and citation-friendly.
+9. **Ross Hudgens** - I kept him because he brings an agency view across many brands and pushes back
+   on fake AI-SEO shortcuts. The playbook idea I would test from him is auditing whether a page has
+   a real point of view or is commodity content, before trying extra tactics like LLMs.txt, chunking,
+   or rewriting only for AI.
+10. **Jeff Coyle** - I kept him because he is strong on planning, content quality, and how structured
+   information affects AI visibility. The playbook idea I would test from him is turning one page
+   into a better AI-readable source by tightening the facts, headings, audience fit, and supporting
+   detail before publishing more new content.
