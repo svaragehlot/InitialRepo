@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# OS
+.DS_Store
+
+# Local working files - NOT part of the deliverable, never commit these
+CLAUDE.md
+GETTING_STARTED.md
+README_template.md

@@ -1,0 +1,11 @@
+# One video per line:  Author Name, URL-or-VideoID    (lines starting with # are ignored)
+#
+# Two verified videos to start (uncomment-ready, these are real):
+Bernard Huang, https://www.youtube.com/watch?v=zUF4GSA_XUw
+Aleyda Solis (Crawling Mondays), https://www.youtube.com/watch?v=WCQT4gX0lU8
+Julia McCoy, https://www.youtube.com/watch?v=Vjl8QWYusQ8
+Koray Tuğberk Gübür, https://www.youtube.com/watch?v=FAJonNdKqw0
+Michael (Mike) King (iPullRank), https://www.youtube.com/watch?v=VBH9Od_OL1Q
+Nathan Gotch, https://www.youtube.com/watch?v=tqRa9AlsM6w 
+Ross Hudgens (Siege Media), https://www.youtube.com/watch?v=DSU67DOqljY 
+Ryan Law (Ahrefs channel), https://www.youtube.com/watch?v=Xq9qD7Xl5Ps
